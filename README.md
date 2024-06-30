@@ -28,7 +28,7 @@ First-timers-bot is built with [Probot](https://probot.github.io/).
         <td><img src="/assets/Install-App.png?raw=true"></td>
     </tr>
     <tr>
-        <td>2) Click on the file you want to edit.</td>
+        <td>2) Click on the file you want to edit and/or change.</td>
         <td><img src="/assets/editPic.png?raw=true"></td>
     </tr>
     <tr>
